@@ -1,0 +1,3 @@
+# Diary
+
+record something
