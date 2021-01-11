@@ -1,3 +1,7 @@
 # Diary
 
-record something
+## record something open
+
+- drama
+- quotations
+- complaint
